@@ -1,4 +1,4 @@
-public class twoSum {
+/*public class twoSum {
    public static void main(String[] args) {
       int[] a = new int[]{2, 7, 11, 15};
       System.out.println(twoSum(a, 9));
@@ -24,3 +24,4 @@ public class twoSum {
       return result;
    }
 }
+*/
